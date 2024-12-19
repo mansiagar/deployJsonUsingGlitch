@@ -47,5 +47,11 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "MyData": [
+    {
+      "id": 1,
+      "name": "Mansi Agarwal"
+    }
   ]
 }
